@@ -1,3 +1,3 @@
 # Sequencer
 
-A Rails app to create and send email sequences to subscribers.
+A Rails app to create and send email sequences.
