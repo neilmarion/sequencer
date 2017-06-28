@@ -1,6 +1,6 @@
 require "rails_helper"
 
 feature "Capybara works" do
-  scenario "succesfully" do
+  scenario "successfully" do
   end
 end
